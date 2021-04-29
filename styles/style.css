@@ -50,6 +50,9 @@
   color: #000;
 }
 
+.put-on__notification {
+  background: rgba(239, 186, 84, 0.18);
+}
 .politic__info {
   font-weight: bold;
 }
@@ -77,6 +80,12 @@
 
 .hot-news__block {
   background-color: #F6F6F9;
+}
+.hot-news__title{
+  font-weight: bold;
+}
+.block-date {
+  color: #7688A4;
 }
 .more-news {
   text-decoration: none;
