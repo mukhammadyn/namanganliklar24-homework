@@ -1,0 +1,121 @@
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+.valutalar {
+  list-style-type: none;
+}
+.valuta span {
+  color:#1E96C8;
+  font-weight: bold;
+}
+.valuta {
+  color:#aaa;
+}
+.language-btn {
+  background-color: #fff;
+}
+.search-btn {
+  background-color: #fff;
+}
+.follow-us__btn {
+  background-color: #1E96C8;
+  color: #fff;
+}
+
+.navigation-lists {
+  list-style: none;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #515151;
+}
+
+.statistic-text {
+  color: #DB0000;
+}
+.redish {
+  color: #05B135;
+}
+.blackish {
+  color: #000;
+}
+
+.politic__info {
+  font-weight: bold;
+}
+.date-time__politic {
+  color: #6B6D97;
+}
+.put-on__text {
+  font-weight: bold;
+}
+.notify-btn {
+  background-color: #FF8B36;
+}
+.last-news__right-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #000;
+}
+.last-news__content {
+  color: #434343;
+}
+.card-p {
+  color: #7688A4;
+}
+
+
+.hot-news__block {
+  background-color: #F6F6F9;
+}
+.more-news {
+  text-decoration: none;
+  color: #fff;
+  background-color: #295093;
+}
+
+.reklama-title {
+  color: #295093;
+}
+.subscribe-text {
+  color: #fff;
+}
+.reklama-text {
+  color: #333333;
+}
+.site-footer {
+  background-color: #295093;
+}
+.up-left {
+  background-color: #133C82;
+}
+.tg-block {
+  display: inline-block;
+  background-color: #fff;
+}
+.subscribe {
+  color: #295093;
+}
+.abaut-site {
+  color: #fff;
+}
+.footer-long-text {
+  color: #fff;
+}
+.information {
+  list-style: none;
+}
+.information a {
+  text-decoration: none;
+  color: #fff;
+}
