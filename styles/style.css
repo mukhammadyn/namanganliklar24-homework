@@ -1,4 +1,6 @@
-
+body {
+  font-family: 'Rubik','Verdana',sans-serif;
+}
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -10,7 +12,30 @@
   width: 1px;
   white-space: nowrap;
 }
+.namanganliklar-title__logo {
+  background-color: #fff;
+  object-fit: contain;
+}
+.namanganliklar-title__valuta {
+  display: flex;
+  justify-content: space-between;
+}
+.namanganliklar-title__valuta-right-side {
+  width: 295px;
+  display: flex;
+  justify-content: space-between;
+}
+.search-btn {
+  width: 38px;
+  height: 40px;
+}
+.namanganliklar-title__valuta-left-side {
+  width: 590px;
+  display: flex;
+  justify-content: space-between;
+}
 .valutalar {
+  display: flex;
   list-style-type: none;
 }
 .valuta span {
@@ -21,23 +46,36 @@
   color:#aaa;
 }
 .language-btn {
+  display: flex;
+  align-items: center;
   background-color: #fff;
 }
 .search-btn {
   background-color: #fff;
 }
+/* .site-language {
+
+  display: flex;
+} */
 .follow-us__btn {
   background-color: #1E96C8;
   color: #fff;
 }
 
 .navigation-lists {
+  display: flex;
+  justify-content: space-between;
   list-style: none;
 }
 
 .navigation a {
   text-decoration: none;
   color: #515151;
+}
+
+.statistica {
+  display: flex;
+  justify-content: space-around;
 }
 
 .statistic-text {
@@ -51,7 +89,17 @@
 }
 
 .put-on__notification {
+  display: flex;
+  justify-content: space-between;
   background: rgba(239, 186, 84, 0.18);
+}
+.politic__up-side {
+  display: flex;
+  justify-content: space-between;
+}
+.politic__down-side {
+  display: flex;
+  justify-content: space-between;
 }
 .politic__info {
   font-weight: bold;
@@ -65,6 +113,17 @@
 .notify-btn {
   background-color: #FF8B36;
 }
+.last-news__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.last-news__sides-card {
+  width: 783px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .last-news__right-link {
   text-decoration: none;
   font-weight: bold;
@@ -72,6 +131,9 @@
 }
 .last-news__content {
   color: #434343;
+}
+.hot-news__right-side {
+  width: 387px;
 }
 .card-p {
   color: #7688A4;
@@ -109,10 +171,15 @@
   background-color: #133C82;
 }
 .tg-block {
-  display: inline-block;
+  width: 816px;
+  display: flex;
+}
+.tg-icon {
   background-color: #fff;
 }
 .subscribe {
+  display: inline-block;
+  background-color: #fff;
   color: #295093;
 }
 .abaut-site {
@@ -128,3 +195,29 @@
   text-decoration: none;
   color: #fff;
 }
+
+.reklama-namangan24 {
+  display: flex;
+  justify-content: space-around;
+}
+.google-play,
+.app-store {
+  object-fit: contain;
+}
+.footer-up {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-down {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-block {
+  width: 360px;
+}
+
+
+/* rubik 500 400
+   
+
+*/
