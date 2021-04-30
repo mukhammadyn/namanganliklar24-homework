@@ -101,7 +101,11 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.politic-news__title {
+  width: 518px;
+}
 .politic__info {
+  width: 383px;
   font-weight: bold;
 }
 .date-time__politic {
