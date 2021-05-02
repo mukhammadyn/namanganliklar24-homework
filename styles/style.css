@@ -164,6 +164,7 @@ body {
 }
 .subscribe-text {
   color: #fff;
+  width: 733px;
 }
 .reklama-text {
   color: #333333;
@@ -175,7 +176,7 @@ body {
   background-color: #133C82;
 }
 .tg-block {
-  width: 816px;
+  width: 845px;
   display: flex;
 }
 .tg-icon {
